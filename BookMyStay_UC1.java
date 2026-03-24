@@ -1,4 +1,4 @@
-public class bookMyStay_UC1 {
+public class BookMyStay_UC1 {
     public static void main(String[] args){
         String appName = "StayForever";
         String version = "v11.0";
